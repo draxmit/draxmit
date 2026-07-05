@@ -31,7 +31,7 @@ learning (computer vision & NLP), and MLOps**.
 - 🏆 **[DSA Compfest 2025 — Data Science Academy](https://github.com/draxmit/dsa-compfest-2025)** — 5/260, Best Participant, and a cross-academy team 1st place.
 - 🛣️ **[Data Science Competitions](https://github.com/draxmit/ds-competitions)** — ARA (segmentation), Dataquest (legal NLP), Datavidia (air quality).
 - 🌱 **[EyePlant — Plant-Disease Detection](https://github.com/draxmit/eyeplant-plant-disease)** — ResNet-9 (98.8%) + Flask API serving an Android client.
-- ⛓️ **[Natecin — Blockchain Inheritance Vault](https://github.com/natecin/natecin-contract)** — a Solidity "dead-man's switch" with Chainlink Automation.
+- ⛓️ **[Natecin — Blockchain Inheritance Vault](https://github.com/natecin/natecin-contract)** — smart-contract engineer on a full inheritance-automation app; a Solidity "dead-man's switch" with Chainlink Automation.
 - 🎓 **[College Projects](https://github.com/draxmit/college-projects)** — ML, Bayesian statistics, databases, algorithms, and scientific computing.
 
 ## 🧰 Skills
