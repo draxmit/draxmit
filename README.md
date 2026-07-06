@@ -32,7 +32,7 @@ learning (computer vision & NLP), and MLOps**.
 - 🛣️ **[Data Science Competitions](https://github.com/draxmit/ds-competitions)** — ARA (segmentation), Dataquest (legal NLP), Datavidia (air quality).
 - 🌱 **[EyePlant — Plant-Disease Detection](https://github.com/draxmit/eyeplant-plant-disease)** — ResNet-9 (98.8%) + Flask API serving an Android client.
 - ⛓️ **[Natecin — Blockchain Inheritance Vault](https://github.com/natecin/natecin-contract)** — smart-contract engineer on a full inheritance-automation app; a Solidity "dead-man's switch" with Chainlink Automation.
-- 🎓 **[College Projects](https://github.com/draxmit/college-projects)** — ML, Bayesian statistics, databases, algorithms, and scientific computing.
+- 📊 **[Data, Statistics & Systems Projects](https://github.com/draxmit/college-projects)** — ML, Bayesian statistics, databases, algorithms, and data mining.
 
 ## 🧰 Skills
 
